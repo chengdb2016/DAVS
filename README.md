@@ -7,7 +7,7 @@ install.packages("MatchIt");install.packages("cobalt")
 install.packages("fastmatch");install.packages("stdReg")
 
 -----------------------------------------------
-2. change the path into your local envionment
+2. change the path into your local envionment \\
 setwd("~/DAVS")
 source("./R/DAVS.R")
 source("./R/Create.Ck.R")
