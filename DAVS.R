@@ -7,8 +7,8 @@
 #
 #  - Debo cheng (chedy055@mymail.unisa.edu.au)
 #
-# Current version: 18/10/2019
-# First version: 12/11/2021
+# Current version: 12/11/2021
+# First version: 18/12/2019
 
 #' @title Towards precise causal effect estimation from data with hidden variables
 #'
