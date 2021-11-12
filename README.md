@@ -1,4 +1,4 @@
-# DAVS: Towards unique and unbiased causal effect estimation from data with hidden variables
+# DAVS-Q: Towards unique and unbiased causal effect estimation from data with hidden variables
 1. Some pakeages are necessary to run the code:
 
 install.packages("Matching");library("rmatio")
