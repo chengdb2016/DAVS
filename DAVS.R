@@ -15,8 +15,9 @@
 #' @description
 #'
 #'
-#' @param dat        dataset
-#' @param pcwy      the set of adj(W\cup Y).
+#' @param dat       dataset
+#' @param Q         the coso variable 
+#' @param pag       the learned PAG 
 #' @param alpha     significance level
 #' @param models    match or logitreg or linearreg or matchit
 #' @param method    subclass, cem, nearest
