@@ -1,7 +1,7 @@
 ############################################################################################
 # DAVS.R
 #
-# The main functions for DAVS
+# The main functions for DAVS-Q
 #
 # Code by
 #
