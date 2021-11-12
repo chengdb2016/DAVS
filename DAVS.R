@@ -33,7 +33,7 @@
 #'
 #' @details
 #' This provides a toy example on how to run a simulation study using the main method
-#' developed in this package. See the description of \code{Run.toy.experiment} for more details.
+#' developed in this package. See the description of \code{Run.barley.experiment} for more details.
 #'
 #' @export
 
